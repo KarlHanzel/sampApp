@@ -1,0 +1,32 @@
+/*
+   Content Style Sheet for karl at khaos dot com's website
+*/
+
+
+body {
+  background: #100000 url(gray_mat.jpg) repeat scroll top left;
+  font-family:chalkboard,monaco,helvetica;
+  color:#BB44FF;
+  text-align:center;
+  margin: 2.5%  7.5%;
+}
+
+a:link    { color:#BB00FF; }
+a:visited { color:#8844FF; }
+a:hover   { color:#88BBFF; }
+a:active  { color:#BBBBFF; }
+
+p {
+  font-size:15pt;
+}
+h1 { font-size:300%; }
+h2 { font-size:200%; }
+h3 { font-size:150%; }
+
+hr {
+  background-color:#BB44FF;
+  width:67%;
+  border-width:0;
+  height:3px;
+}
+
